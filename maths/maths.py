@@ -1,3 +1,3 @@
 
 def two_plus_two() -> int:
-    return 2 + 2
+    return 2 + 3
